@@ -1,0 +1,3387 @@
+{
+  "city_languages": [{
+      "id_city": "3114",
+      "name": "Jahorina"
+    },
+    {
+      "id_city": "3113",
+      "name": "Živinice"
+    },
+    {
+      "id_city": "3112",
+      "name": "Žepče"
+    },
+    {
+      "id_city": "3111",
+      "name": "Zvornik"
+    },
+    {
+      "id_city": "3110",
+      "name": "Zenica"
+    },
+    {
+      "id_city": "3109",
+      "name": "Zavidovići"
+    },
+    {
+      "id_city": "3108",
+      "name": "Vogošća"
+    },
+    {
+      "id_city": "3107",
+      "name": "Vitez"
+    },
+    {
+      "id_city": "3106",
+      "name": "Višegrad"
+    },
+    {
+      "id_city": "3105",
+      "name": "Visoko"
+    },
+    {
+      "id_city": "3104",
+      "name": "Velika Kladuša"
+    },
+    {
+      "id_city": "3103",
+      "name": "Vareš"
+    },
+    {
+      "id_city": "3102",
+      "name": "Ustiprača"
+    },
+    {
+      "id_city": "3101",
+      "name": "Usora"
+    },
+    {
+      "id_city": "3100",
+      "name": "Tuzla"
+    },
+    {
+      "id_city": "3099",
+      "name": "Trebinje"
+    },
+    {
+      "id_city": "3098",
+      "name": "Travnik"
+    },
+    {
+      "id_city": "3097",
+      "name": "Tomislavgrad"
+    },
+    {
+      "id_city": "3096",
+      "name": "Tešanj"
+    },
+    {
+      "id_city": "3095",
+      "name": "Teslić"
+    },
+    {
+      "id_city": "3094",
+      "name": "Teočak"
+    },
+    {
+      "id_city": "3093",
+      "name": "Široki Brijeg"
+    },
+    {
+      "id_city": "3092",
+      "name": "Šipovo"
+    },
+    {
+      "id_city": "3091",
+      "name": "Stolac"
+    },
+    {
+      "id_city": "3090",
+      "name": "Stanari"
+    },
+    {
+      "id_city": "3089",
+      "name": "Srebrenik"
+    },
+    {
+      "id_city": "3088",
+      "name": "Srebrenica"
+    },
+    {
+      "id_city": "3087",
+      "name": "Srbac"
+    },
+    {
+      "id_city": "3086",
+      "name": "Sokolac"
+    },
+    {
+      "id_city": "3085",
+      "name": "Skender Vakuf"
+    },
+    {
+      "id_city": "3084",
+      "name": "Sarajevo"
+    },
+    {
+      "id_city": "3083",
+      "name": "Sapna"
+    },
+    {
+      "id_city": "3082",
+      "name": "Sanski Most"
+    },
+    {
+      "id_city": "3081",
+      "name": "Rudo"
+    },
+    {
+      "id_city": "3080",
+      "name": "Rogatica"
+    },
+    {
+      "id_city": "3079",
+      "name": "Ravno"
+    },
+    {
+      "id_city": "3078",
+      "name": "Prnjavor"
+    },
+    {
+      "id_city": "3077",
+      "name": "Prijedor"
+    },
+    {
+      "id_city": "3076",
+      "name": "Prača"
+    },
+    {
+      "id_city": "3075",
+      "name": "Prozor"
+    },
+    {
+      "id_city": "3074",
+      "name": "Posušje"
+    },
+    {
+      "id_city": "3073",
+      "name": "Pale"
+    },
+    {
+      "id_city": "3072",
+      "name": "Orašje"
+    },
+    {
+      "id_city": "3071",
+      "name": "Olovo (BiH)"
+    },
+    {
+      "id_city": "3070",
+      "name": "Odžak"
+    },
+    {
+      "id_city": "3069",
+      "name": "Novi Travnik"
+    },
+    {
+      "id_city": "3068",
+      "name": "Nevesinje"
+    },
+    {
+      "id_city": "3067",
+      "name": "Neum"
+    },
+    {
+      "id_city": "3066",
+      "name": "Mrkonjić Grad"
+    },
+    {
+      "id_city": "3065",
+      "name": "Mostar"
+    },
+    {
+      "id_city": "3064",
+      "name": "Modriča"
+    },
+    {
+      "id_city": "3063",
+      "name": "Milići"
+    },
+    {
+      "id_city": "3062",
+      "name": "Maglaj"
+    },
+    {
+      "id_city": "3061",
+      "name": "Ljubuški"
+    },
+    {
+      "id_city": "3060",
+      "name": "Ljubinje"
+    },
+    {
+      "id_city": "3059",
+      "name": "Lopare"
+    },
+    {
+      "id_city": "3058",
+      "name": "Lukavac"
+    },
+    {
+      "id_city": "3057",
+      "name": "Livno"
+    },
+    {
+      "id_city": "3056",
+      "name": "Laktaši"
+    },
+    {
+      "id_city": "3055",
+      "name": "Kupres"
+    },
+    {
+      "id_city": "3054",
+      "name": "Kreševo"
+    },
+    {
+      "id_city": "3053",
+      "name": "Kotor Varoš"
+    },
+    {
+      "id_city": "3052",
+      "name": "Konjic"
+    },
+    {
+      "id_city": "3051",
+      "name": "Ključ"
+    },
+    {
+      "id_city": "3050",
+      "name": "Kladanj"
+    },
+    {
+      "id_city": "3049",
+      "name": "Kiseljak"
+    },
+    {
+      "id_city": "3048",
+      "name": "Kalinovik"
+    },
+    {
+      "id_city": "3047",
+      "name": "Kalesija"
+    },
+    {
+      "id_city": "3046",
+      "name": "Kakanj"
+    },
+    {
+      "id_city": "3045",
+      "name": "Jajce"
+    },
+    {
+      "id_city": "3044",
+      "name": "Jablanica"
+    },
+    {
+      "id_city": "3043",
+      "name": "Gornji Vakuf-Uskoplje"
+    },
+    {
+      "id_city": "3042",
+      "name": "Goražde"
+    },
+    {
+      "id_city": "3041",
+      "name": "Grude"
+    },
+    {
+      "id_city": "3040",
+      "name": "Gradačac"
+    },
+    {
+      "id_city": "3039",
+      "name": "Gračanica"
+    },
+    {
+      "id_city": "3038",
+      "name": "Glamoč"
+    },
+    {
+      "id_city": "3037",
+      "name": "Gacko"
+    },
+    {
+      "id_city": "3036",
+      "name": "Fojnica"
+    },
+    {
+      "id_city": "3035",
+      "name": "Foča"
+    },
+    {
+      "id_city": "3034",
+      "name": "Derventa"
+    },
+    {
+      "id_city": "3033",
+      "name": "Drvar"
+    },
+    {
+      "id_city": "3032",
+      "name": "Donji Vakuf"
+    },
+    {
+      "id_city": "3031",
+      "name": "Domaljevac"
+    },
+    {
+      "id_city": "3030",
+      "name": "Dobretići"
+    },
+    {
+      "id_city": "3029",
+      "name": "Doboj"
+    },
+    {
+      "id_city": "3028",
+      "name": "Čelinac"
+    },
+    {
+      "id_city": "3027",
+      "name": "Čitluk"
+    },
+    {
+      "id_city": "3026",
+      "name": "Čelić"
+    },
+    {
+      "id_city": "3025",
+      "name": "Čapljina"
+    },
+    {
+      "id_city": "3024",
+      "name": "Čajniče"
+    },
+    {
+      "id_city": "3023",
+      "name": "Cazin"
+    },
+    {
+      "id_city": "3022",
+      "name": "Bužim"
+    },
+    {
+      "id_city": "3021",
+      "name": "Busovača"
+    },
+    {
+      "id_city": "3020",
+      "name": "Bugojno"
+    },
+    {
+      "id_city": "3019",
+      "name": "Breza"
+    },
+    {
+      "id_city": "3018",
+      "name": "Brčko"
+    },
+    {
+      "id_city": "3017",
+      "name": "Bratunac"
+    },
+    {
+      "id_city": "3016",
+      "name": "Bosanski Šamac"
+    },
+    {
+      "id_city": "3015",
+      "name": "Bosanski Petrovac"
+    },
+    {
+      "id_city": "3014",
+      "name": "Bosanski Novi"
+    },
+    {
+      "id_city": "3013",
+      "name": "Bosanski Brod"
+    },
+    {
+      "id_city": "3012",
+      "name": "Bosanska Kostajnica"
+    },
+    {
+      "id_city": "3011",
+      "name": "Bosanska Krupa"
+    },
+    {
+      "id_city": "3010",
+      "name": "Bosansko Grahovo"
+    },
+    {
+      "id_city": "3009",
+      "name": "Bosanska Gradiška"
+    },
+    {
+      "id_city": "3008",
+      "name": "Bosanska Dubica"
+    },
+    {
+      "id_city": "3007",
+      "name": "Blagaj"
+    },
+    {
+      "id_city": "3006",
+      "name": "Bijeljina"
+    },
+    {
+      "id_city": "3005",
+      "name": "Bileća"
+    },
+    {
+      "id_city": "3004",
+      "name": "Bihać"
+    },
+    {
+      "id_city": "3003",
+      "name": "Berkovići"
+    },
+    {
+      "id_city": "3002",
+      "name": "Banja Luka"
+    },
+    {
+      "id_city": "3001",
+      "name": "Banovići"
+    },
+    {
+      "id_city": "2021",
+      "name": "Žabljak"
+    },
+    {
+      "id_city": "2020",
+      "name": "Ulcinj"
+    },
+    {
+      "id_city": "2019",
+      "name": "Tivat"
+    },
+    {
+      "id_city": "2018",
+      "name": "Šavnik"
+    },
+    {
+      "id_city": "2017",
+      "name": "Rožaje"
+    },
+    {
+      "id_city": "2016",
+      "name": "Podgorica"
+    },
+    {
+      "id_city": "2015",
+      "name": "Plužine"
+    },
+    {
+      "id_city": "2014",
+      "name": "Pljevlja"
+    },
+    {
+      "id_city": "2013",
+      "name": "Plav"
+    },
+    {
+      "id_city": "2012",
+      "name": "Nikšić"
+    },
+    {
+      "id_city": "2011",
+      "name": "Mojkovac"
+    },
+    {
+      "id_city": "2010",
+      "name": "Kotor"
+    },
+    {
+      "id_city": "2009",
+      "name": "Kolašin"
+    },
+    {
+      "id_city": "2008",
+      "name": "Herceg Novi"
+    },
+    {
+      "id_city": "2007",
+      "name": "Danilovgrad"
+    },
+    {
+      "id_city": "2006",
+      "name": "Cetinje"
+    },
+    {
+      "id_city": "2005",
+      "name": "Budva"
+    },
+    {
+      "id_city": "2004",
+      "name": "Bijelo polje"
+    },
+    {
+      "id_city": "2003",
+      "name": "Berane"
+    },
+    {
+      "id_city": "2002",
+      "name": "Bar"
+    },
+    {
+      "id_city": "2001",
+      "name": "Andrijevica"
+    },
+    {
+      "id_city": "1767",
+      "name": "Žumberak"
+    },
+    {
+      "id_city": "1766",
+      "name": "Zaprešić - Okolica"
+    },
+    {
+      "id_city": "1765",
+      "name": "Zaprešić"
+    },
+    {
+      "id_city": "1764",
+      "name": "Vrbovec"
+    },
+    {
+      "id_city": "1763",
+      "name": "Velika Gorica - Okolica"
+    },
+    {
+      "id_city": "1762",
+      "name": "Velika Gorica"
+    },
+    {
+      "id_city": "1761",
+      "name": "Sveti Ivan Zelina"
+    },
+    {
+      "id_city": "1760",
+      "name": "Sveta Nedelja"
+    },
+    {
+      "id_city": "1759",
+      "name": "Stupnik"
+    },
+    {
+      "id_city": "1758",
+      "name": "Samobor - Okolica"
+    },
+    {
+      "id_city": "1757",
+      "name": "Samobor"
+    },
+    {
+      "id_city": "1756",
+      "name": "Rugvica"
+    },
+    {
+      "id_city": "1755",
+      "name": "Rakovec"
+    },
+    {
+      "id_city": "1754",
+      "name": "Pušća"
+    },
+    {
+      "id_city": "1753",
+      "name": "Preseka"
+    },
+    {
+      "id_city": "1752",
+      "name": "Pokupsko"
+    },
+    {
+      "id_city": "1751",
+      "name": "Pisarovina"
+    },
+    {
+      "id_city": "1750",
+      "name": "Orle"
+    },
+    {
+      "id_city": "1749",
+      "name": "Marija Gorica"
+    },
+    {
+      "id_city": "1748",
+      "name": "Luka"
+    },
+    {
+      "id_city": "1747",
+      "name": "Križ"
+    },
+    {
+      "id_city": "1746",
+      "name": "Kravarsko"
+    },
+    {
+      "id_city": "1745",
+      "name": "Krašić"
+    },
+    {
+      "id_city": "1744",
+      "name": "Kloštar Ivanić"
+    },
+    {
+      "id_city": "1743",
+      "name": "Klinča Sela"
+    },
+    {
+      "id_city": "1742",
+      "name": "Jastrebarsko - Okolica"
+    },
+    {
+      "id_city": "1741",
+      "name": "Jastrebarsko"
+    },
+    {
+      "id_city": "1740",
+      "name": "Jakovlje"
+    },
+    {
+      "id_city": "1739",
+      "name": "Ivanić-Grad - Okolica"
+    },
+    {
+      "id_city": "1738",
+      "name": "Ivanić-Grad"
+    },
+    {
+      "id_city": "1737",
+      "name": "Gradec"
+    },
+    {
+      "id_city": "1736",
+      "name": "Farkaševac"
+    },
+    {
+      "id_city": "1735",
+      "name": "Dugo Selo - Okolica"
+    },
+    {
+      "id_city": "1734",
+      "name": "Dugo Selo"
+    },
+    {
+      "id_city": "1733",
+      "name": "Dubravica"
+    },
+    {
+      "id_city": "1732",
+      "name": "Dubrava"
+    },
+    {
+      "id_city": "1731",
+      "name": "Brdovec"
+    },
+    {
+      "id_city": "1730",
+      "name": "Brckovljani"
+    },
+    {
+      "id_city": "1729",
+      "name": "Bistra"
+    },
+    {
+      "id_city": "1728",
+      "name": "Bedenica"
+    },
+    {
+      "id_city": "1727",
+      "name": "Zemunik Donji"
+    },
+    {
+      "id_city": "1726",
+      "name": "Zadar - Okolica"
+    },
+    {
+      "id_city": "1725",
+      "name": "Zadar"
+    },
+    {
+      "id_city": "1724",
+      "name": "Vir"
+    },
+    {
+      "id_city": "1723",
+      "name": "Tkon"
+    },
+    {
+      "id_city": "1722",
+      "name": "Škabrnje"
+    },
+    {
+      "id_city": "1721",
+      "name": "Sveti Filip I Jakov"
+    },
+    {
+      "id_city": "1720",
+      "name": "Sukošan"
+    },
+    {
+      "id_city": "1719",
+      "name": "Starigrad"
+    },
+    {
+      "id_city": "1718",
+      "name": "Stankovci"
+    },
+    {
+      "id_city": "1717",
+      "name": "Sali"
+    },
+    {
+      "id_city": "1716",
+      "name": "Ražanac"
+    },
+    {
+      "id_city": "1715",
+      "name": "Privlaka"
+    },
+    {
+      "id_city": "1714",
+      "name": "Preko"
+    },
+    {
+      "id_city": "1713",
+      "name": "Povljana"
+    },
+    {
+      "id_city": "1712",
+      "name": "Posedarje"
+    },
+    {
+      "id_city": "1711",
+      "name": "Poličnik"
+    },
+    {
+      "id_city": "1710",
+      "name": "Polača"
+    },
+    {
+      "id_city": "1709",
+      "name": "Pašman"
+    },
+    {
+      "id_city": "1708",
+      "name": "Pakoštane"
+    },
+    {
+      "id_city": "1707",
+      "name": "Pag"
+    },
+    {
+      "id_city": "1706",
+      "name": "Obrovac"
+    },
+    {
+      "id_city": "1705",
+      "name": "Novigrad"
+    },
+    {
+      "id_city": "1704",
+      "name": "Nin"
+    },
+    {
+      "id_city": "1703",
+      "name": "Lišane Ostrovičke"
+    },
+    {
+      "id_city": "1702",
+      "name": "Kukljica"
+    },
+    {
+      "id_city": "1700",
+      "name": "Kali"
+    },
+    {
+      "id_city": "1699",
+      "name": "Jasenice"
+    },
+    {
+      "id_city": "1698",
+      "name": "Gračac"
+    },
+    {
+      "id_city": "1697",
+      "name": "Galovac"
+    },
+    {
+      "id_city": "1696",
+      "name": "Biograd Na Moru"
+    },
+    {
+      "id_city": "1695",
+      "name": "Bibinje"
+    },
+    {
+      "id_city": "1694",
+      "name": "Benkovac"
+    },
+    {
+      "id_city": "1693",
+      "name": "Županja"
+    },
+    {
+      "id_city": "1692",
+      "name": "Vukovar - Okolica"
+    },
+    {
+      "id_city": "1691",
+      "name": "Vukovar"
+    },
+    {
+      "id_city": "1690",
+      "name": "Vrbanja"
+    },
+    {
+      "id_city": "1689",
+      "name": "Vođinci"
+    },
+    {
+      "id_city": "1688",
+      "name": "Vinkovci - Okolica"
+    },
+    {
+      "id_city": "1687",
+      "name": "Vinkovci"
+    },
+    {
+      "id_city": "1686",
+      "name": "Trpinja"
+    },
+    {
+      "id_city": "1685",
+      "name": "Tovarnik"
+    },
+    {
+      "id_city": "1684",
+      "name": "Tordinci"
+    },
+    {
+      "id_city": "1683",
+      "name": "Tompojevci"
+    },
+    {
+      "id_city": "1682",
+      "name": "Stari Mikanovci"
+    },
+    {
+      "id_city": "1681",
+      "name": "Stari Jankovci"
+    },
+    {
+      "id_city": "1680",
+      "name": "Privlaka"
+    },
+    {
+      "id_city": "1679",
+      "name": "Otok"
+    },
+    {
+      "id_city": "1678",
+      "name": "Nuštar"
+    },
+    {
+      "id_city": "1677",
+      "name": "Nijemci"
+    },
+    {
+      "id_city": "1676",
+      "name": "Negoslavci"
+    },
+    {
+      "id_city": "1675",
+      "name": "Markušica"
+    },
+    {
+      "id_city": "1674",
+      "name": "Lovas"
+    },
+    {
+      "id_city": "1673",
+      "name": "Jarmina"
+    },
+    {
+      "id_city": "1672",
+      "name": "Ivankovo"
+    },
+    {
+      "id_city": "1671",
+      "name": "Ilok"
+    },
+    {
+      "id_city": "1670",
+      "name": "Gunja"
+    },
+    {
+      "id_city": "1669",
+      "name": "Gradište"
+    },
+    {
+      "id_city": "1668",
+      "name": "Drenovci"
+    },
+    {
+      "id_city": "1667",
+      "name": "Cerna"
+    },
+    {
+      "id_city": "1666",
+      "name": "Bošnjaci"
+    },
+    {
+      "id_city": "1665",
+      "name": "Borovo"
+    },
+    {
+      "id_city": "1664",
+      "name": "Bogdanovci"
+    },
+    {
+      "id_city": "1663",
+      "name": "Babina Greda"
+    },
+    {
+      "id_city": "1662",
+      "name": "Andrijaševci"
+    },
+    {
+      "id_city": "1661",
+      "name": "Zdenci"
+    },
+    {
+      "id_city": "1660",
+      "name": "Voćin"
+    },
+    {
+      "id_city": "1659",
+      "name": "Virovitica - Okolica"
+    },
+    {
+      "id_city": "1658",
+      "name": "Virovitica"
+    },
+    {
+      "id_city": "1657",
+      "name": "Špišić Bukovica"
+    },
+    {
+      "id_city": "1656",
+      "name": "Suhopolje"
+    },
+    {
+      "id_city": "1655",
+      "name": "Sopje"
+    },
+    {
+      "id_city": "1654",
+      "name": "Slatina"
+    },
+    {
+      "id_city": "1653",
+      "name": "Pitomača"
+    },
+    {
+      "id_city": "1652",
+      "name": "Orahovica"
+    },
+    {
+      "id_city": "1651",
+      "name": "Nova Bukovica"
+    },
+    {
+      "id_city": "1650",
+      "name": "Mikleuš"
+    },
+    {
+      "id_city": "1649",
+      "name": "Lukač"
+    },
+    {
+      "id_city": "1648",
+      "name": "Gradina"
+    },
+    {
+      "id_city": "1647",
+      "name": "Čađavica"
+    },
+    {
+      "id_city": "1646",
+      "name": "Čačinci"
+    },
+    {
+      "id_city": "1645",
+      "name": "Crnac"
+    },
+    {
+      "id_city": "1644",
+      "name": "Visoko"
+    },
+    {
+      "id_city": "1643",
+      "name": "Vinica"
+    },
+    {
+      "id_city": "1642",
+      "name": "Vidovec"
+    },
+    {
+      "id_city": "1641",
+      "name": "Veliki Bukovec"
+    },
+    {
+      "id_city": "1640",
+      "name": "Varaždinske Toplice"
+    },
+    {
+      "id_city": "1639",
+      "name": "Varaždin - Okolica"
+    },
+    {
+      "id_city": "1638",
+      "name": "Varaždin"
+    },
+    {
+      "id_city": "1637",
+      "name": "Trnovec Bartolovečki"
+    },
+    {
+      "id_city": "1636",
+      "name": "Sveti Ilija"
+    },
+    {
+      "id_city": "1635",
+      "name": "Sveti Đurđ"
+    },
+    {
+      "id_city": "1634",
+      "name": "Sračinec"
+    },
+    {
+      "id_city": "1633",
+      "name": "Petrijanec"
+    },
+    {
+      "id_city": "1632",
+      "name": "Novi Marof"
+    },
+    {
+      "id_city": "1631",
+      "name": "Maruševec"
+    },
+    {
+      "id_city": "1630",
+      "name": "Mali Bukovec"
+    },
+    {
+      "id_city": "1629",
+      "name": "Ljubešćica"
+    },
+    {
+      "id_city": "1628",
+      "name": "Ludbreg"
+    },
+    {
+      "id_city": "1627",
+      "name": "Lepoglava"
+    },
+    {
+      "id_city": "1626",
+      "name": "Klenovnik"
+    },
+    {
+      "id_city": "1625",
+      "name": "Jalžabet"
+    },
+    {
+      "id_city": "1624",
+      "name": "Ivanec"
+    },
+    {
+      "id_city": "1623",
+      "name": "Gornji Kneginec"
+    },
+    {
+      "id_city": "1622",
+      "name": "Donji Martijanec"
+    },
+    {
+      "id_city": "1621",
+      "name": "Donja Voća"
+    },
+    {
+      "id_city": "1620",
+      "name": "Cestica"
+    },
+    {
+      "id_city": "1619",
+      "name": "Breznički Hum"
+    },
+    {
+      "id_city": "1618",
+      "name": "Breznica"
+    },
+    {
+      "id_city": "1617",
+      "name": "Beretinec"
+    },
+    {
+      "id_city": "1616",
+      "name": "Bednja"
+    },
+    {
+      "id_city": "1615",
+      "name": "Vodice"
+    },
+    {
+      "id_city": "1614",
+      "name": "Unešić"
+    },
+    {
+      "id_city": "1613",
+      "name": "Tisno"
+    },
+    {
+      "id_city": "1612",
+      "name": "Šibenik - Okolica"
+    },
+    {
+      "id_city": "1611",
+      "name": "Šibenik"
+    },
+    {
+      "id_city": "1610",
+      "name": "Skradin"
+    },
+    {
+      "id_city": "1609",
+      "name": "Ružić"
+    },
+    {
+      "id_city": "1608",
+      "name": "Rogoznica"
+    },
+    {
+      "id_city": "1607",
+      "name": "Promina"
+    },
+    {
+      "id_city": "1606",
+      "name": "Primošten"
+    },
+    {
+      "id_city": "1605",
+      "name": "Pirovac"
+    },
+    {
+      "id_city": "1604",
+      "name": "Murter"
+    },
+    {
+      "id_city": "1603",
+      "name": "Knin"
+    },
+    {
+      "id_city": "1602",
+      "name": "Kistanje"
+    },
+    {
+      "id_city": "1601",
+      "name": "Kijevo"
+    },
+    {
+      "id_city": "1600",
+      "name": "Ervenik"
+    },
+    {
+      "id_city": "1599",
+      "name": "Drniš"
+    },
+    {
+      "id_city": "1598",
+      "name": "Civljane"
+    },
+    {
+      "id_city": "1597",
+      "name": "Biskupija"
+    },
+    {
+      "id_city": "1595",
+      "name": "Zmijavci"
+    },
+    {
+      "id_city": "1594",
+      "name": "Zagvozd"
+    },
+    {
+      "id_city": "1593",
+      "name": "Zadvarje"
+    },
+    {
+      "id_city": "1592",
+      "name": "Vrlika"
+    },
+    {
+      "id_city": "1591",
+      "name": "Vrgorac"
+    },
+    {
+      "id_city": "1590",
+      "name": "Vis"
+    },
+    {
+      "id_city": "1589",
+      "name": "Tučepi"
+    },
+    {
+      "id_city": "1588",
+      "name": "Trogir - Okolica"
+    },
+    {
+      "id_city": "1587",
+      "name": "Trogir"
+    },
+    {
+      "id_city": "1586",
+      "name": "Trilj"
+    },
+    {
+      "id_city": "1585",
+      "name": "Šolta"
+    },
+    {
+      "id_city": "1584",
+      "name": "Šestanovac"
+    },
+    {
+      "id_city": "1583",
+      "name": "Sutivan"
+    },
+    {
+      "id_city": "1582",
+      "name": "Supetar"
+    },
+    {
+      "id_city": "1581",
+      "name": "Sućuraj"
+    },
+    {
+      "id_city": "1580",
+      "name": "Stari Grad"
+    },
+    {
+      "id_city": "1579",
+      "name": "Split - Okolica"
+    },
+    {
+      "id_city": "1578",
+      "name": "Split"
+    },
+    {
+      "id_city": "1577",
+      "name": "Solin - Okolica"
+    },
+    {
+      "id_city": "1576",
+      "name": "Solin"
+    },
+    {
+      "id_city": "1575",
+      "name": "Sinj"
+    },
+    {
+      "id_city": "1574",
+      "name": "Selca"
+    },
+    {
+      "id_city": "1573",
+      "name": "Seget"
+    },
+    {
+      "id_city": "1572",
+      "name": "Runovići"
+    },
+    {
+      "id_city": "1571",
+      "name": "Pučišća"
+    },
+    {
+      "id_city": "1570",
+      "name": "Proložac"
+    },
+    {
+      "id_city": "1569",
+      "name": "Primorski Dolac"
+    },
+    {
+      "id_city": "1568",
+      "name": "Prgomet"
+    },
+    {
+      "id_city": "1567",
+      "name": "Postira"
+    },
+    {
+      "id_city": "1566",
+      "name": "Podstrana"
+    },
+    {
+      "id_city": "1565",
+      "name": "Podgora"
+    },
+    {
+      "id_city": "1564",
+      "name": "Podbablje"
+    },
+    {
+      "id_city": "1563",
+      "name": "Otok"
+    },
+    {
+      "id_city": "1562",
+      "name": "Omiš"
+    },
+    {
+      "id_city": "1561",
+      "name": "Okrug"
+    },
+    {
+      "id_city": "1560",
+      "name": "Nerežišća"
+    },
+    {
+      "id_city": "1559",
+      "name": "Muć"
+    },
+    {
+      "id_city": "1558",
+      "name": "Milna"
+    },
+    {
+      "id_city": "1557",
+      "name": "Marina"
+    },
+    {
+      "id_city": "1556",
+      "name": "Makarska"
+    },
+    {
+      "id_city": "1555",
+      "name": "Lovreć"
+    },
+    {
+      "id_city": "1554",
+      "name": "Lokvičići"
+    },
+    {
+      "id_city": "1553",
+      "name": "Lećevica"
+    },
+    {
+      "id_city": "1552",
+      "name": "Komiža"
+    },
+    {
+      "id_city": "1551",
+      "name": "Klis"
+    },
+    {
+      "id_city": "1550",
+      "name": "Kaštela"
+    },
+    {
+      "id_city": "1549",
+      "name": "Jelsa"
+    },
+    {
+      "id_city": "1548",
+      "name": "Imotski"
+    },
+    {
+      "id_city": "1547",
+      "name": "Hvar"
+    },
+    {
+      "id_city": "1546",
+      "name": "Hrvace"
+    },
+    {
+      "id_city": "1545",
+      "name": "Gradac"
+    },
+    {
+      "id_city": "1544",
+      "name": "Dugopolje"
+    },
+    {
+      "id_city": "1543",
+      "name": "Dugi Rat"
+    },
+    {
+      "id_city": "1542",
+      "name": "Dicmo"
+    },
+    {
+      "id_city": "1541",
+      "name": "Cista Provo"
+    },
+    {
+      "id_city": "1540",
+      "name": "Brela"
+    },
+    {
+      "id_city": "1539",
+      "name": "Bol"
+    },
+    {
+      "id_city": "1538",
+      "name": "Baška Voda"
+    },
+    {
+      "id_city": "1537",
+      "name": "Velika Ludina"
+    },
+    {
+      "id_city": "1536",
+      "name": "Topusko"
+    },
+    {
+      "id_city": "1535",
+      "name": "Sunja"
+    },
+    {
+      "id_city": "1534",
+      "name": "Sisak - Okolica"
+    },
+    {
+      "id_city": "1533",
+      "name": "Sisak"
+    },
+    {
+      "id_city": "1532",
+      "name": "Popovača"
+    },
+    {
+      "id_city": "1531",
+      "name": "Petrinja"
+    },
+    {
+      "id_city": "1530",
+      "name": "Novska"
+    },
+    {
+      "id_city": "1529",
+      "name": "Martinska Ves"
+    },
+    {
+      "id_city": "1528",
+      "name": "Majur"
+    },
+    {
+      "id_city": "1527",
+      "name": "Lipovljani"
+    },
+    {
+      "id_city": "1526",
+      "name": "Lekenik"
+    },
+    {
+      "id_city": "1525",
+      "name": "Kutina"
+    },
+    {
+      "id_city": "1524",
+      "name": "Jasenovac"
+    },
+    {
+      "id_city": "1523",
+      "name": "Hrvatska Kostajnica"
+    },
+    {
+      "id_city": "1522",
+      "name": "Hrvatska Dubica"
+    },
+    {
+      "id_city": "1521",
+      "name": "Gvozd"
+    },
+    {
+      "id_city": "1520",
+      "name": "Glina"
+    },
+    {
+      "id_city": "1519",
+      "name": "Dvor"
+    },
+    {
+      "id_city": "1518",
+      "name": "Donji Kukuruzari"
+    },
+    {
+      "id_city": "1517",
+      "name": "Vrbovsko"
+    },
+    {
+      "id_city": "1516",
+      "name": "Vrbnik"
+    },
+    {
+      "id_city": "1515",
+      "name": "Viškovo"
+    },
+    {
+      "id_city": "1514",
+      "name": "Vinodolska Općina"
+    },
+    {
+      "id_city": "1513",
+      "name": "Skrad"
+    },
+    {
+      "id_city": "1511",
+      "name": "Rijeka"
+    },
+    {
+      "id_city": "1510",
+      "name": "Ravna Gora"
+    },
+    {
+      "id_city": "1509",
+      "name": "Rab"
+    },
+    {
+      "id_city": "1508",
+      "name": "Punat"
+    },
+    {
+      "id_city": "1507",
+      "name": "Opatija - Okolica"
+    },
+    {
+      "id_city": "1506",
+      "name": "Opatija"
+    },
+    {
+      "id_city": "1505",
+      "name": "Omišalj"
+    },
+    {
+      "id_city": "1504",
+      "name": "Novi Vinodolski"
+    },
+    {
+      "id_city": "1503",
+      "name": "Mrkopalj"
+    },
+    {
+      "id_city": "1502",
+      "name": "Mošćenička Draga"
+    },
+    {
+      "id_city": "1501",
+      "name": "Matulji"
+    },
+    {
+      "id_city": "1500",
+      "name": "Malinska-Dubašnica"
+    },
+    {
+      "id_city": "1499",
+      "name": "Mali Lošinj"
+    },
+    {
+      "id_city": "1498",
+      "name": "Lovran"
+    },
+    {
+      "id_city": "1497",
+      "name": "Lokve"
+    },
+    {
+      "id_city": "1496",
+      "name": "Krk"
+    },
+    {
+      "id_city": "1495",
+      "name": "Kraljevica"
+    },
+    {
+      "id_city": "1494",
+      "name": "Kostrena"
+    },
+    {
+      "id_city": "1493",
+      "name": "Klana"
+    },
+    {
+      "id_city": "1491",
+      "name": "Kastav"
+    },
+    {
+      "id_city": "1490",
+      "name": "Jelenje"
+    },
+    {
+      "id_city": "1489",
+      "name": "Fužine"
+    },
+    {
+      "id_city": "1488",
+      "name": "Dobrinj"
+    },
+    {
+      "id_city": "1487",
+      "name": "Delnice"
+    },
+    {
+      "id_city": "1486",
+      "name": "Čavle"
+    },
+    {
+      "id_city": "1485",
+      "name": "Čabar"
+    },
+    {
+      "id_city": "1484",
+      "name": "Crikvenica"
+    },
+    {
+      "id_city": "1483",
+      "name": "Cres"
+    },
+    {
+      "id_city": "1482",
+      "name": "Brod Moravice"
+    },
+    {
+      "id_city": "1481",
+      "name": "Baška"
+    },
+    {
+      "id_city": "1480",
+      "name": "Bakar"
+    },
+    {
+      "id_city": "1479",
+      "name": "Velika"
+    },
+    {
+      "id_city": "1478",
+      "name": "Požega - Okolica"
+    },
+    {
+      "id_city": "1477",
+      "name": "Požega"
+    },
+    {
+      "id_city": "1476",
+      "name": "Pleternica"
+    },
+    {
+      "id_city": "1475",
+      "name": "Pakrac"
+    },
+    {
+      "id_city": "1474",
+      "name": "Lipik"
+    },
+    {
+      "id_city": "1473",
+      "name": "Kutjevo"
+    },
+    {
+      "id_city": "1472",
+      "name": "Kaptol"
+    },
+    {
+      "id_city": "1471",
+      "name": "Jakšić"
+    },
+    {
+      "id_city": "1470",
+      "name": "Čaglin"
+    },
+    {
+      "id_city": "1469",
+      "name": "Brestovac"
+    },
+    {
+      "id_city": "1468",
+      "name": "Vuka"
+    },
+    {
+      "id_city": "1467",
+      "name": "Vladislavci"
+    },
+    {
+      "id_city": "1466",
+      "name": "Viškovci"
+    },
+    {
+      "id_city": "1465",
+      "name": "Viljevo"
+    },
+    {
+      "id_city": "1464",
+      "name": "Valpovo"
+    },
+    {
+      "id_city": "1463",
+      "name": "Trnava"
+    },
+    {
+      "id_city": "1462",
+      "name": "Šodolovci"
+    },
+    {
+      "id_city": "1461",
+      "name": "Strizivojna"
+    },
+    {
+      "id_city": "1460",
+      "name": "Semeljci"
+    },
+    {
+      "id_city": "1459",
+      "name": "Satnica Đakovačka"
+    },
+    {
+      "id_city": "1458",
+      "name": "Punitovci"
+    },
+    {
+      "id_city": "1457",
+      "name": "Popovac"
+    },
+    {
+      "id_city": "1456",
+      "name": "Podravska Moslavina"
+    },
+    {
+      "id_city": "1455",
+      "name": "Podgorač"
+    },
+    {
+      "id_city": "1454",
+      "name": "Petrijevci"
+    },
+    {
+      "id_city": "1453",
+      "name": "Petlovac"
+    },
+    {
+      "id_city": "1452",
+      "name": "Osijek - Okolica"
+    },
+    {
+      "id_city": "1451",
+      "name": "Osijek"
+    },
+    {
+      "id_city": "1450",
+      "name": "Našice"
+    },
+    {
+      "id_city": "1449",
+      "name": "Marijanci"
+    },
+    {
+      "id_city": "1448",
+      "name": "Magadenovac"
+    },
+    {
+      "id_city": "1447",
+      "name": "Levanjska Varoš"
+    },
+    {
+      "id_city": "1446",
+      "name": "Koška"
+    },
+    {
+      "id_city": "1445",
+      "name": "Kneževi Vinogradi"
+    },
+    {
+      "id_city": "1444",
+      "name": "Jagodnjak"
+    },
+    {
+      "id_city": "1443",
+      "name": "Gorjani"
+    },
+    {
+      "id_city": "1442",
+      "name": "Feričanci"
+    },
+    {
+      "id_city": "1441",
+      "name": "Ernestinovo"
+    },
+    {
+      "id_city": "1440",
+      "name": "Erdut"
+    },
+    {
+      "id_city": "1439",
+      "name": "Đurđenovac"
+    },
+    {
+      "id_city": "1438",
+      "name": "Đakovo"
+    },
+    {
+      "id_city": "1437",
+      "name": "Drenje"
+    },
+    {
+      "id_city": "1436",
+      "name": "Draž"
+    },
+    {
+      "id_city": "1435",
+      "name": "Donji Miholjac"
+    },
+    {
+      "id_city": "1434",
+      "name": "Donja Motičina"
+    },
+    {
+      "id_city": "1433",
+      "name": "Darda"
+    },
+    {
+      "id_city": "1432",
+      "name": "Čepin"
+    },
+    {
+      "id_city": "1431",
+      "name": "Čeminac"
+    },
+    {
+      "id_city": "1430",
+      "name": "Bizovac"
+    },
+    {
+      "id_city": "1429",
+      "name": "Bilje"
+    },
+    {
+      "id_city": "1428",
+      "name": "Belišće"
+    },
+    {
+      "id_city": "1427",
+      "name": "Beli Manastir"
+    },
+    {
+      "id_city": "1426",
+      "name": "Antunovac"
+    },
+    {
+      "id_city": "1425",
+      "name": "Vratišinec"
+    },
+    {
+      "id_city": "1424",
+      "name": "Štrigova"
+    },
+    {
+      "id_city": "1423",
+      "name": "Šenkovec"
+    },
+    {
+      "id_city": "1422",
+      "name": "Sveti Martin Na Muri"
+    },
+    {
+      "id_city": "1421",
+      "name": "Sveti Juraj Na Bregu"
+    },
+    {
+      "id_city": "1420",
+      "name": "Sveta Marija"
+    },
+    {
+      "id_city": "1419",
+      "name": "Strahoninec"
+    },
+    {
+      "id_city": "1418",
+      "name": "Selnica"
+    },
+    {
+      "id_city": "1417",
+      "name": "Pribislavec"
+    },
+    {
+      "id_city": "1416",
+      "name": "Prelog"
+    },
+    {
+      "id_city": "1415",
+      "name": "Podturen"
+    },
+    {
+      "id_city": "1414",
+      "name": "Orehovica"
+    },
+    {
+      "id_city": "1413",
+      "name": "Nedelišće"
+    },
+    {
+      "id_city": "1412",
+      "name": "Mursko Središće"
+    },
+    {
+      "id_city": "1411",
+      "name": "Mala Subotica"
+    },
+    {
+      "id_city": "1410",
+      "name": "Kotoriba"
+    },
+    {
+      "id_city": "1409",
+      "name": "Gornji Mihaljevec"
+    },
+    {
+      "id_city": "1408",
+      "name": "Goričan"
+    },
+    {
+      "id_city": "1407",
+      "name": "Donji Vidovec"
+    },
+    {
+      "id_city": "1406",
+      "name": "Donji Kraljevec"
+    },
+    {
+      "id_city": "1405",
+      "name": "Donja Dubrava"
+    },
+    {
+      "id_city": "1404",
+      "name": "Domašinec"
+    },
+    {
+      "id_city": "1403",
+      "name": "Dekanovec"
+    },
+    {
+      "id_city": "1402",
+      "name": "Čakovec - Okolica"
+    },
+    {
+      "id_city": "1401",
+      "name": "Čakovec"
+    },
+    {
+      "id_city": "1400",
+      "name": "Belica"
+    },
+    {
+      "id_city": "1399",
+      "name": "Vrhovine"
+    },
+    {
+      "id_city": "1398",
+      "name": "Udbina"
+    },
+    {
+      "id_city": "1397",
+      "name": "Senj"
+    },
+    {
+      "id_city": "1396",
+      "name": "Plitvička Jezera"
+    },
+    {
+      "id_city": "1395",
+      "name": "Perušić"
+    },
+    {
+      "id_city": "1394",
+      "name": "Otočac"
+    },
+    {
+      "id_city": "1393",
+      "name": "Novalja"
+    },
+    {
+      "id_city": "1392",
+      "name": "Lovinac"
+    },
+    {
+      "id_city": "1391",
+      "name": "Karlobag"
+    },
+    {
+      "id_city": "1390",
+      "name": "Gospić - Okolica"
+    },
+    {
+      "id_city": "1389",
+      "name": "Gospić"
+    },
+    {
+      "id_city": "1388",
+      "name": "Donji Lapac"
+    },
+    {
+      "id_city": "1387",
+      "name": "Brinje"
+    },
+    {
+      "id_city": "1386",
+      "name": "Zlatar-Bistrica"
+    },
+    {
+      "id_city": "1385",
+      "name": "Zlatar"
+    },
+    {
+      "id_city": "1384",
+      "name": "Zagorska Sela"
+    },
+    {
+      "id_city": "1383",
+      "name": "Zabok"
+    },
+    {
+      "id_city": "1382",
+      "name": "Veliko Trgovišće"
+    },
+    {
+      "id_city": "1381",
+      "name": "Tuhelj"
+    },
+    {
+      "id_city": "1380",
+      "name": "Sveti Križ Začretje"
+    },
+    {
+      "id_city": "1379",
+      "name": "Stubičke Toplice"
+    },
+    {
+      "id_city": "1378",
+      "name": "Radoboj"
+    },
+    {
+      "id_city": "1377",
+      "name": "Pregrada"
+    },
+    {
+      "id_city": "1376",
+      "name": "Petrovsko"
+    },
+    {
+      "id_city": "1375",
+      "name": "Oroslavje"
+    },
+    {
+      "id_city": "1374",
+      "name": "Novi Golubovec"
+    },
+    {
+      "id_city": "1373",
+      "name": "Mihovljan"
+    },
+    {
+      "id_city": "1372",
+      "name": "Marija Bistrica"
+    },
+    {
+      "id_city": "1371",
+      "name": "Mače"
+    },
+    {
+      "id_city": "1370",
+      "name": "Lobor"
+    },
+    {
+      "id_city": "1369",
+      "name": "Kumrovec"
+    },
+    {
+      "id_city": "1368",
+      "name": "Krapinske Toplice"
+    },
+    {
+      "id_city": "1367",
+      "name": "Krapina - Okolica"
+    },
+    {
+      "id_city": "1366",
+      "name": "Krapina"
+    },
+    {
+      "id_city": "1365",
+      "name": "Kraljevec Na Sutli"
+    },
+    {
+      "id_city": "1364",
+      "name": "Konjščina"
+    },
+    {
+      "id_city": "1363",
+      "name": "Klanjec"
+    },
+    {
+      "id_city": "1362",
+      "name": "Jesenje"
+    },
+    {
+      "id_city": "1361",
+      "name": "Hum Na Sutli"
+    },
+    {
+      "id_city": "1360",
+      "name": "Hrašćina"
+    },
+    {
+      "id_city": "1359",
+      "name": "Gornja Stubica"
+    },
+    {
+      "id_city": "1358",
+      "name": "Đurmanec"
+    },
+    {
+      "id_city": "1357",
+      "name": "Donja Stubica"
+    },
+    {
+      "id_city": "1356",
+      "name": "Desinić"
+    },
+    {
+      "id_city": "1355",
+      "name": "Budinščina"
+    },
+    {
+      "id_city": "1354",
+      "name": "Bedekovčina"
+    },
+    {
+      "id_city": "1353",
+      "name": "Virje"
+    },
+    {
+      "id_city": "1352",
+      "name": "Sveti Petar Orehovec"
+    },
+    {
+      "id_city": "1351",
+      "name": "Sveti Ivan Žabno"
+    },
+    {
+      "id_city": "1350",
+      "name": "Sokolovac"
+    },
+    {
+      "id_city": "1349",
+      "name": "Rasinja"
+    },
+    {
+      "id_city": "1348",
+      "name": "Podravske Sesvete"
+    },
+    {
+      "id_city": "1347",
+      "name": "Peteranec"
+    },
+    {
+      "id_city": "1346",
+      "name": "Novo Virje"
+    },
+    {
+      "id_city": "1345",
+      "name": "Novigrad Podravski"
+    },
+    {
+      "id_city": "1344",
+      "name": "Molve"
+    },
+    {
+      "id_city": "1343",
+      "name": "Legrad"
+    },
+    {
+      "id_city": "1342",
+      "name": "Križevci"
+    },
+    {
+      "id_city": "1341",
+      "name": "Koprivnički Ivanec"
+    },
+    {
+      "id_city": "1340",
+      "name": "Koprivnički Bregi"
+    },
+    {
+      "id_city": "1339",
+      "name": "Koprivnica - Okolica"
+    },
+    {
+      "id_city": "1338",
+      "name": "Koprivnica"
+    },
+    {
+      "id_city": "1337",
+      "name": "Kloštar Podravski"
+    },
+    {
+      "id_city": "1336",
+      "name": "Kalnik"
+    },
+    {
+      "id_city": "1335",
+      "name": "Kalinovac"
+    },
+    {
+      "id_city": "1334",
+      "name": "Hlebine"
+    },
+    {
+      "id_city": "1333",
+      "name": "Gornja Rijeka"
+    },
+    {
+      "id_city": "1332",
+      "name": "Gola"
+    },
+    {
+      "id_city": "1331",
+      "name": "Ferdinandovac"
+    },
+    {
+      "id_city": "1330",
+      "name": "Đurđevac"
+    },
+    {
+      "id_city": "1329",
+      "name": "Đelekovec"
+    },
+    {
+      "id_city": "1328",
+      "name": "Drnje"
+    },
+    {
+      "id_city": "1327",
+      "name": "Žakanje"
+    },
+    {
+      "id_city": "1326",
+      "name": "Vojnić"
+    },
+    {
+      "id_city": "1325",
+      "name": "Tounj"
+    },
+    {
+      "id_city": "1324",
+      "name": "Slunj"
+    },
+    {
+      "id_city": "1323",
+      "name": "Saborsko"
+    },
+    {
+      "id_city": "1322",
+      "name": "Ribnik"
+    },
+    {
+      "id_city": "1321",
+      "name": "Rakovica"
+    },
+    {
+      "id_city": "1320",
+      "name": "Plaški"
+    },
+    {
+      "id_city": "1319",
+      "name": "Ozalj"
+    },
+    {
+      "id_city": "1318",
+      "name": "Ogulin"
+    },
+    {
+      "id_city": "1317",
+      "name": "Netretić"
+    },
+    {
+      "id_city": "1316",
+      "name": "Lasinja"
+    },
+    {
+      "id_city": "1315",
+      "name": "Krnjak"
+    },
+    {
+      "id_city": "1314",
+      "name": "Karlovac - Okolica"
+    },
+    {
+      "id_city": "1313",
+      "name": "Karlovac"
+    },
+    {
+      "id_city": "1312",
+      "name": "Josipdol"
+    },
+    {
+      "id_city": "1311",
+      "name": "Generalski Stol"
+    },
+    {
+      "id_city": "1310",
+      "name": "Duga Resa"
+    },
+    {
+      "id_city": "1309",
+      "name": "Draganić"
+    },
+    {
+      "id_city": "1308",
+      "name": "Cetingrad"
+    },
+    {
+      "id_city": "1307",
+      "name": "Bosiljevo"
+    },
+    {
+      "id_city": "1306",
+      "name": "Barilovići"
+    },
+    {
+      "id_city": "1305",
+      "name": "Žminj"
+    },
+    {
+      "id_city": "1304",
+      "name": "Vrsar"
+    },
+    {
+      "id_city": "1303",
+      "name": "Vodnjan"
+    },
+    {
+      "id_city": "1302",
+      "name": "Vižinada"
+    },
+    {
+      "id_city": "1301",
+      "name": "Višnjan"
+    },
+    {
+      "id_city": "1300",
+      "name": "Umag"
+    },
+    {
+      "id_city": "1299",
+      "name": "Tinjan"
+    },
+    {
+      "id_city": "1298",
+      "name": "Svetvinčenat"
+    },
+    {
+      "id_city": "1297",
+      "name": "Sveti Petar U Šumi"
+    },
+    {
+      "id_city": "1296",
+      "name": "Sveti Lovreč"
+    },
+    {
+      "id_city": "1295",
+      "name": "Sveta Nedelja"
+    },
+    {
+      "id_city": "1294",
+      "name": "Rovinj"
+    },
+    {
+      "id_city": "1293",
+      "name": "Raša"
+    },
+    {
+      "id_city": "1291",
+      "name": "Pula"
+    },
+    {
+      "id_city": "1290",
+      "name": "Poreč"
+    },
+    {
+      "id_city": "1289",
+      "name": "Pićan"
+    },
+    {
+      "id_city": "1288",
+      "name": "Pazin - Okolica"
+    },
+    {
+      "id_city": "1287",
+      "name": "Pazin"
+    },
+    {
+      "id_city": "1286",
+      "name": "Oprtalj"
+    },
+    {
+      "id_city": "1285",
+      "name": "Novigrad"
+    },
+    {
+      "id_city": "1284",
+      "name": "Motovun"
+    },
+    {
+      "id_city": "1283",
+      "name": "Medulin"
+    },
+    {
+      "id_city": "1282",
+      "name": "Marčana"
+    },
+    {
+      "id_city": "1281",
+      "name": "Lupoglav"
+    },
+    {
+      "id_city": "1280",
+      "name": "Ližnjan"
+    },
+    {
+      "id_city": "1279",
+      "name": "Lanišće"
+    },
+    {
+      "id_city": "1278",
+      "name": "Labin"
+    },
+    {
+      "id_city": "1277",
+      "name": "Kršan"
+    },
+    {
+      "id_city": "1276",
+      "name": "Kaštelir-Labinci"
+    },
+    {
+      "id_city": "1275",
+      "name": "Karojba"
+    },
+    {
+      "id_city": "1274",
+      "name": "Kanfanar"
+    },
+    {
+      "id_city": "1273",
+      "name": "Grožnjan"
+    },
+    {
+      "id_city": "1272",
+      "name": "Gračišće"
+    },
+    {
+      "id_city": "1271",
+      "name": "Fažana"
+    },
+    {
+      "id_city": "1270",
+      "name": "Cerovlje"
+    },
+    {
+      "id_city": "1269",
+      "name": "Buzet"
+    },
+    {
+      "id_city": "1268",
+      "name": "Buje"
+    },
+    {
+      "id_city": "1267",
+      "name": "Brtonigla"
+    },
+    {
+      "id_city": "1266",
+      "name": "Barban"
+    },
+    {
+      "id_city": "1265",
+      "name": "Bale"
+    },
+    {
+      "id_city": "1264",
+      "name": "Zagreb - Okolica"
+    },
+    {
+      "id_city": "1263",
+      "name": "Trnje"
+    },
+    {
+      "id_city": "1262",
+      "name": "Trešnjevka - Sjever"
+    },
+    {
+      "id_city": "1261",
+      "name": "Trešnjevka - Jug"
+    },
+    {
+      "id_city": "1260",
+      "name": "Stenjevec"
+    },
+    {
+      "id_city": "1259",
+      "name": "Sesvete"
+    },
+    {
+      "id_city": "1258",
+      "name": "Podsused - Vrapče"
+    },
+    {
+      "id_city": "1257",
+      "name": "Podsljeme"
+    },
+    {
+      "id_city": "1256",
+      "name": "Peščenica - Žitnjak"
+    },
+    {
+      "id_city": "1255",
+      "name": "Novi Zagreb - Zapad"
+    },
+    {
+      "id_city": "1254",
+      "name": "Novi Zagreb - Istok"
+    },
+    {
+      "id_city": "1253",
+      "name": "Maksimir"
+    },
+    {
+      "id_city": "1252",
+      "name": "Gornji Grad - Medveščak"
+    },
+    {
+      "id_city": "1251",
+      "name": "Gornja Dubrava"
+    },
+    {
+      "id_city": "1250",
+      "name": "Donji Grad"
+    },
+    {
+      "id_city": "1249",
+      "name": "Donja Dubrava"
+    },
+    {
+      "id_city": "1248",
+      "name": "Črnomerec"
+    },
+    {
+      "id_city": "1247",
+      "name": "Brezovica"
+    },
+    {
+      "id_city": "1246",
+      "name": "Župa Dubrovačka"
+    },
+    {
+      "id_city": "1245",
+      "name": "Zažablje"
+    },
+    {
+      "id_city": "1244",
+      "name": "Vela Luka"
+    },
+    {
+      "id_city": "1243",
+      "name": "Trpanj"
+    },
+    {
+      "id_city": "1242",
+      "name": "Ston"
+    },
+    {
+      "id_city": "1241",
+      "name": "Smokvica"
+    },
+    {
+      "id_city": "1240",
+      "name": "Slivno"
+    },
+    {
+      "id_city": "1239",
+      "name": "Pojezerje"
+    },
+    {
+      "id_city": "1238",
+      "name": "Ploče"
+    },
+    {
+      "id_city": "1237",
+      "name": "Orebić"
+    },
+    {
+      "id_city": "1236",
+      "name": "Opuzen"
+    },
+    {
+      "id_city": "1235",
+      "name": "Mljet"
+    },
+    {
+      "id_city": "1234",
+      "name": "Metković"
+    },
+    {
+      "id_city": "1233",
+      "name": "Lumbarda"
+    },
+    {
+      "id_city": "1232",
+      "name": "Lastovo"
+    },
+    {
+      "id_city": "1231",
+      "name": "Kula Norinska"
+    },
+    {
+      "id_city": "1230",
+      "name": "Korčula"
+    },
+    {
+      "id_city": "1229",
+      "name": "Konavle"
+    },
+    {
+      "id_city": "1228",
+      "name": "Janjina"
+    },
+    {
+      "id_city": "1227",
+      "name": "Dubrovnik - Okolica"
+    },
+    {
+      "id_city": "1226",
+      "name": "Dubrovnik"
+    },
+    {
+      "id_city": "1225",
+      "name": "Dubrovačko Primorje"
+    },
+    {
+      "id_city": "1224",
+      "name": "Blato"
+    },
+    {
+      "id_city": "1223",
+      "name": "Vrpolje"
+    },
+    {
+      "id_city": "1222",
+      "name": "Vrbje"
+    },
+    {
+      "id_city": "1221",
+      "name": "Velika Kopanica"
+    },
+    {
+      "id_city": "1220",
+      "name": "Staro Petrovo Selo"
+    },
+    {
+      "id_city": "1219",
+      "name": "Stara Gradiška"
+    },
+    {
+      "id_city": "1218",
+      "name": "Slavonski Šamac"
+    },
+    {
+      "id_city": "1217",
+      "name": "Slavonski Brod - Okolica"
+    },
+    {
+      "id_city": "1216",
+      "name": "Slavonski Brod"
+    },
+    {
+      "id_city": "1215",
+      "name": "Sikirevci"
+    },
+    {
+      "id_city": "1214",
+      "name": "Sibinj"
+    },
+    {
+      "id_city": "1213",
+      "name": "Rešetari"
+    },
+    {
+      "id_city": "1212",
+      "name": "Podcrkavlje"
+    },
+    {
+      "id_city": "1211",
+      "name": "Oriovac"
+    },
+    {
+      "id_city": "1210",
+      "name": "Oprisavci"
+    },
+    {
+      "id_city": "1209",
+      "name": "Okučani"
+    },
+    {
+      "id_city": "1208",
+      "name": "Nova Kapela"
+    },
+    {
+      "id_city": "1207",
+      "name": "Nova Gradiška"
+    },
+    {
+      "id_city": "1206",
+      "name": "Klakar"
+    },
+    {
+      "id_city": "1205",
+      "name": "Gundinci"
+    },
+    {
+      "id_city": "1204",
+      "name": "Gornji Bogićevci"
+    },
+    {
+      "id_city": "1203",
+      "name": "Gornja Vrba"
+    },
+    {
+      "id_city": "1202",
+      "name": "Garčin"
+    },
+    {
+      "id_city": "1201",
+      "name": "Dragalić"
+    },
+    {
+      "id_city": "1200",
+      "name": "Donji Andrijevci"
+    },
+    {
+      "id_city": "1199",
+      "name": "Davor"
+    },
+    {
+      "id_city": "1198",
+      "name": "Cernik"
+    },
+    {
+      "id_city": "1197",
+      "name": "Bukovlje"
+    },
+    {
+      "id_city": "1196",
+      "name": "Brodski Stupnik"
+    },
+    {
+      "id_city": "1195",
+      "name": "Bebrina"
+    },
+    {
+      "id_city": "1194",
+      "name": "Zrinski Topolovac"
+    },
+    {
+      "id_city": "1193",
+      "name": "Veliko Trojstvo"
+    },
+    {
+      "id_city": "1192",
+      "name": "Veliki Grđevac"
+    },
+    {
+      "id_city": "1191",
+      "name": "Velika Trnovitica"
+    },
+    {
+      "id_city": "1190",
+      "name": "Velika Pisanica"
+    },
+    {
+      "id_city": "1189",
+      "name": "Štefanje"
+    },
+    {
+      "id_city": "1188",
+      "name": "Šandrovac"
+    },
+    {
+      "id_city": "1187",
+      "name": "Sirač"
+    },
+    {
+      "id_city": "1186",
+      "name": "Severin"
+    },
+    {
+      "id_city": "1185",
+      "name": "Rovišće"
+    },
+    {
+      "id_city": "1184",
+      "name": "Nova Rača"
+    },
+    {
+      "id_city": "1183",
+      "name": "Končanica"
+    },
+    {
+      "id_city": "1182",
+      "name": "Kapela"
+    },
+    {
+      "id_city": "1181",
+      "name": "Ivanska"
+    },
+    {
+      "id_city": "1180",
+      "name": "Hercegovac"
+    },
+    {
+      "id_city": "1179",
+      "name": "Grubišno Polje"
+    },
+    {
+      "id_city": "1178",
+      "name": "Garešnica"
+    },
+    {
+      "id_city": "1177",
+      "name": "Đulovac"
+    },
+    {
+      "id_city": "1176",
+      "name": "Dežanovac"
+    },
+    {
+      "id_city": "1175",
+      "name": "Daruvar"
+    },
+    {
+      "id_city": "1174",
+      "name": "Čazma"
+    },
+    {
+      "id_city": "1173",
+      "name": "Bjelovar - Okolica"
+    },
+    {
+      "id_city": "1172",
+      "name": "Bjelovar"
+    },
+    {
+      "id_city": "1171",
+      "name": "Berek"
+    },
+    {
+      "id_city": "1001",
+      "name": "Zagreb"
+    },
+    {
+      "id_city": "319",
+      "name": "Kovačica"
+    },
+    {
+      "id_city": "318",
+      "name": "Žabalj"
+    },
+    {
+      "id_city": "317",
+      "name": "Trstenik"
+    },
+    {
+      "id_city": "316",
+      "name": "Knjaževac"
+    },
+    {
+      "id_city": "315",
+      "name": "Brus"
+    },
+    {
+      "id_city": "314",
+      "name": "Petrovac na Mlavi"
+    },
+    {
+      "id_city": "313",
+      "name": "Kuršumlija"
+    },
+    {
+      "id_city": "312",
+      "name": "Žagubica"
+    },
+    {
+      "id_city": "311",
+      "name": "Bela Crkva"
+    },
+    {
+      "id_city": "310",
+      "name": "Boljevac"
+    },
+    {
+      "id_city": "309",
+      "name": "Žabari"
+    },
+    {
+      "id_city": "308",
+      "name": "Ražanj"
+    },
+    {
+      "id_city": "307",
+      "name": "Alibunar"
+    },
+    {
+      "id_city": "306",
+      "name": "Aleksandrovac"
+    },
+    {
+      "id_city": "305",
+      "name": "Lučani"
+    },
+    {
+      "id_city": "304",
+      "name": "Rača"
+    },
+    {
+      "id_city": "303",
+      "name": "Doljevac"
+    },
+    {
+      "id_city": "302",
+      "name": "Pećinci"
+    },
+    {
+      "id_city": "301",
+      "name": "Bogatić"
+    },
+    {
+      "id_city": "300",
+      "name": "Koceljeva"
+    },
+    {
+      "id_city": "299",
+      "name": "Kučevo"
+    },
+    {
+      "id_city": "298",
+      "name": "Odžaci"
+    },
+    {
+      "id_city": "297",
+      "name": "Bač"
+    },
+    {
+      "id_city": "296",
+      "name": "Ub"
+    },
+    {
+      "id_city": "294",
+      "name": "Batočina"
+    },
+    {
+      "id_city": "293",
+      "name": "Vladičin Han"
+    },
+    {
+      "id_city": "292",
+      "name": "Sjenica"
+    },
+    {
+      "id_city": "291",
+      "name": "Bačka Palanka"
+    },
+    {
+      "id_city": "290",
+      "name": "Varvarin"
+    },
+    {
+      "id_city": "289",
+      "name": "Kostolac"
+    },
+    {
+      "id_city": "288",
+      "name": "Tutin"
+    },
+    {
+      "id_city": "287",
+      "name": "Senta"
+    },
+    {
+      "id_city": "286",
+      "name": "Ljubovija"
+    },
+    {
+      "id_city": "285",
+      "name": "Prokuplje"
+    },
+    {
+      "id_city": "284",
+      "name": "Gadžin Han"
+    },
+    {
+      "id_city": "283",
+      "name": "Ćićevac"
+    },
+    {
+      "id_city": "282",
+      "name": "Blace"
+    },
+    {
+      "id_city": "281",
+      "name": "Vlasotince"
+    },
+    {
+      "id_city": "280",
+      "name": "Bela crkva"
+    },
+    {
+      "id_city": "279",
+      "name": "Beočin"
+    },
+    {
+      "id_city": "278",
+      "name": "Irig"
+    },
+    {
+      "id_city": "277",
+      "name": "Srbobran"
+    },
+    {
+      "id_city": "276",
+      "name": "Vrdnik"
+    },
+    {
+      "id_city": "275",
+      "name": "Bački Petrovac"
+    },
+    {
+      "id_city": "274",
+      "name": "Temerin"
+    },
+    {
+      "id_city": "273",
+      "name": "Bačka Topola"
+    },
+    {
+      "id_city": "272",
+      "name": "Kula"
+    },
+    {
+      "id_city": "271",
+      "name": "Vrbas"
+    },
+    {
+      "id_city": "270",
+      "name": "Požega"
+    },
+    {
+      "id_city": "269",
+      "name": "Nova Pazova"
+    },
+    {
+      "id_city": "268",
+      "name": "Veliko Gradište"
+    },
+    {
+      "id_city": "267",
+      "name": "Loznica"
+    },
+    {
+      "id_city": "266",
+      "name": "Velika Plana"
+    },
+    {
+      "id_city": "265",
+      "name": "Region/Ostalo"
+    },
+    {
+      "id_city": "264",
+      "name": "Titel"
+    },
+    {
+      "id_city": "263",
+      "name": "Sremski Karlovci"
+    },
+    {
+      "id_city": "262",
+      "name": "Soko Banja"
+    },
+    {
+      "id_city": "261",
+      "name": "Aleksinac"
+    },
+    {
+      "id_city": "260",
+      "name": "Lapovo"
+    },
+    {
+      "id_city": "259",
+      "name": "Apatin"
+    },
+    {
+      "id_city": "258",
+      "name": "Kopaonik"
+    },
+    {
+      "id_city": "257",
+      "name": "Stara Pazova"
+    },
+    {
+      "id_city": "256",
+      "name": "Ruma"
+    },
+    {
+      "id_city": "255",
+      "name": "Vrnjačka banja"
+    },
+    {
+      "id_city": "54",
+      "name": "Zrenjanin"
+    },
+    {
+      "id_city": "53",
+      "name": "Zlatibor"
+    },
+    {
+      "id_city": "52",
+      "name": "Zaječar"
+    },
+    {
+      "id_city": "51",
+      "name": "Vršac"
+    },
+    {
+      "id_city": "50",
+      "name": "Vranje"
+    },
+    {
+      "id_city": "49",
+      "name": "Valjevo"
+    },
+    {
+      "id_city": "48",
+      "name": "Užice"
+    },
+    {
+      "id_city": "47",
+      "name": "Topola"
+    },
+    {
+      "id_city": "46",
+      "name": "Svilajnac"
+    },
+    {
+      "id_city": "45",
+      "name": "Subotica"
+    },
+    {
+      "id_city": "44",
+      "name": "Sremska Mitrovica"
+    },
+    {
+      "id_city": "43",
+      "name": "Sombor"
+    },
+    {
+      "id_city": "42",
+      "name": "Smederevska Palanka"
+    },
+    {
+      "id_city": "41",
+      "name": "Smederevo"
+    },
+    {
+      "id_city": "40",
+      "name": "Šid"
+    },
+    {
+      "id_city": "39",
+      "name": "Šabac"
+    },
+    {
+      "id_city": "38",
+      "name": "Prizren"
+    },
+    {
+      "id_city": "37",
+      "name": "Priština"
+    },
+    {
+      "id_city": "36",
+      "name": "Prijepolje"
+    },
+    {
+      "id_city": "35",
+      "name": "Požarevac"
+    },
+    {
+      "id_city": "34",
+      "name": "Pirot"
+    },
+    {
+      "id_city": "33",
+      "name": "Peć"
+    },
+    {
+      "id_city": "32",
+      "name": "Paraćin"
+    },
+    {
+      "id_city": "31",
+      "name": "Pančevo"
+    },
+    {
+      "id_city": "30",
+      "name": "Novi Pazar"
+    },
+    {
+      "id_city": "29",
+      "name": "Nova Varoš"
+    },
+    {
+      "id_city": "28",
+      "name": "Negotin"
+    },
+    {
+      "id_city": "27",
+      "name": "Majdanpek"
+    },
+    {
+      "id_city": "26",
+      "name": "Ljig"
+    },
+    {
+      "id_city": "25",
+      "name": "Leskovac"
+    },
+    {
+      "id_city": "24",
+      "name": "Kruševac"
+    },
+    {
+      "id_city": "23",
+      "name": "Kraljevo"
+    },
+    {
+      "id_city": "22",
+      "name": "Kovin"
+    },
+    {
+      "id_city": "21",
+      "name": "Kosovska Mitrovica"
+    },
+    {
+      "id_city": "20",
+      "name": "Kladovo"
+    },
+    {
+      "id_city": "19",
+      "name": "Kikinda"
+    },
+    {
+      "id_city": "18",
+      "name": "Jagodina"
+    },
+    {
+      "id_city": "17",
+      "name": "Ivanjica"
+    },
+    {
+      "id_city": "16",
+      "name": "Inđija"
+    },
+    {
+      "id_city": "15",
+      "name": "Gornji Milanovac"
+    },
+    {
+      "id_city": "14",
+      "name": "Gnjilane"
+    },
+    {
+      "id_city": "13",
+      "name": "Despotovac"
+    },
+    {
+      "id_city": "12",
+      "name": "Ćuprija"
+    },
+    {
+      "id_city": "11",
+      "name": "Čajetina"
+    },
+    {
+      "id_city": "10",
+      "name": "Čačak"
+    },
+    {
+      "id_city": "9",
+      "name": "Bor"
+    },
+    {
+      "id_city": "8",
+      "name": "Bečej"
+    },
+    {
+      "id_city": "7",
+      "name": "Bajina Bašta"
+    },
+    {
+      "id_city": "6",
+      "name": "Arilje"
+    },
+    {
+      "id_city": "5",
+      "name": "Aranđelovac"
+    },
+    {
+      "id_city": "4",
+      "name": "Kragujevac"
+    },
+    {
+      "id_city": "3",
+      "name": "Niš"
+    },
+    {
+      "id_city": "2",
+      "name": "Novi Sad"
+    },
+    {
+      "id_city": "1",
+      "name": "Beograd"
+    }
+  ]
+}
